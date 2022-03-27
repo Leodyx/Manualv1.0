@@ -1,0 +1,13 @@
+[
+	{ "s": "RA", "p": [21] },
+	{ "s": "REAS", "p": [3] },
+	{ "s": "REDUCE", "p": [6] },
+	{ "s": "REGISTRAR", "p": [3] },
+	{ "s": "REGISTRARSE", "p": [4] },
+	{ "s": "REGISTRO", "p": [5, 4] },
+	{ "s": "REGRESA", "p": [8, 3] },
+	{ "s": "RELACION", "p": [22] },
+	{ "s": "REPORTE", "p": [22] },
+	{ "s": "REPORTES", "p": [22, 23, 24, 7] },
+	{ "s": "RESERVACION", "p": [15, 16, 7] }
+]

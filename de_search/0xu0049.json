@@ -1,0 +1,13 @@
+[
+	{ "s": "ID", "p": [26, 4] },
+	{ "s": "IMAGEN", "p": [26] },
+	{ "s": "IMAGENDNI", "p": [26] },
+	{ "s": "IMAGENUSUARIO", "p": [26] },
+	{ "s": "INDEX", "p": [3] },
+	{ "s": "INFORMACION", "p": [4] },
+	{ "s": "INGRESA", "p": [5, 4, 3, 21] },
+	{ "s": "INGRESO", "p": [4, 5] },
+	{ "s": "INICIAL", "p": [23] },
+	{ "s": "INICIO", "p": [3] },
+	{ "s": "INSTRUCCIONES", "p": [2, 1] }
+]

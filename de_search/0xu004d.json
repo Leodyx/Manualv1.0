@@ -1,0 +1,20 @@
+[
+	{ "s": "MAESTROS", "p": [17, 19, 18, 7] },
+	{ "s": "MANTENDOR", "p": [14, 13, 12, 11, 9] },
+	{ "s": "MANTENEDOR", "p": [11, 9, 12, 18] },
+	{ "s": "MANTENEDORCLIENTES", "p": [13] },
+	{ "s": "MANTENEDOREMPLEADOS", "p": [14] },
+	{ "s": "MANTENEDOREMPRESAS", "p": [11] },
+	{ "s": "MANTENEDORPROPIETARIOS", "p": [12] },
+	{ "s": "MANTENEDORREPORTES", "p": [23] },
+	{ "s": "MANTENEDORSERVICIOS", "p": [18] },
+	{ "s": "MANTENEDORUSUARIO", "p": [9] },
+	{ "s": "MANUAL", "p": [20, 21, 7, 28, 27, 26, 25, 24, 23, 22, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 6, 5, 4, 3, 2, 1] },
+	{ "s": "MANUALDETALLE", "p": [21, 20] },
+	{ "s": "MANUALES", "p": [21] },
+	{ "s": "MAYOR", "p": [9] },
+	{ "s": "MENOR", "p": [9] },
+	{ "s": "METODO", "p": [4] },
+	{ "s": "METODOS", "p": [4] },
+	{ "s": "MUESTRA", "p": [26, 23, 19] }
+]
